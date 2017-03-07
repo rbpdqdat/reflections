@@ -6,4 +6,20 @@ How is the staging area different from the working directory and the repository?
 
 It creates an area that allows you to choose what you will be tracking for the commit.  It also allows you be more daring with the code you create.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+It is an easy way to check what is is the staging area.  Also the diff --staged can be used to look at the changes you are making
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+1) when making large changes to the way a program works
+2) creating new features (contextual switching)
+3) Moving onto a different piece of work 
+4) master branch always works (production quality)
+5) experimental branch
+
+How do the diagrams help you visualize the branch structure?
+
+To see if there are 'unreachable' checkouts...should a new branch be created!
+merging?
 
